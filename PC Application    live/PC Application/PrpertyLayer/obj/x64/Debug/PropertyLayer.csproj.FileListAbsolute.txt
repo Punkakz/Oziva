@@ -1,0 +1,45 @@
+D:\Sayali\DGFT Web\MAERK\PC Application\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\MAERK\PC Application\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\MAERK\PC Application\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\MAERK\PC Application\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\MAERK\PC Application\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\PC Application\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\PC Application\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\PC Application\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Chandrakant\Current Projects\PC Application\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\PC Application\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT (18-09-15)\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT (18-09-15)\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT (18-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\DGFT (18-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT (18-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT (28-09-15)\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT (28-09-15)\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT (28-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\DGFT (28-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT (28-09-15)\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Merck Online\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Merck Online\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Merck Online\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\Merck Online\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Merck Online\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Jejuri\Jejuri\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Jejuri\Jejuri\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Jejuri\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Jejuri\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Jejuri\Jejuri\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT NEW\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT NEW\PC Application Online\PrpertyLayer\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT NEW\PC Application Online\PrpertyLayer\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\DGFT NEW\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT NEW\PC Application Online\PrpertyLayer\obj\x64\Debug\PrpertyLayer.pdb

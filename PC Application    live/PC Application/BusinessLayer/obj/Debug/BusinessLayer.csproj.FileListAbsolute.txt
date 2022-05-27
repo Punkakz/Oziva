@@ -1,0 +1,33 @@
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\PrpertyLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\bin\Debug\PrpertyLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\BusinessLayer\obj\Debug\BusinessLayer.pdb
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\BusinessLayer.dll
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\BusinessLayer.pdb
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\PrpertyLayer.dll
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\BusinessLayer\bin\Debug\PrpertyLayer.pdb
+G:\Amar\Shalina\PC Application\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Amar\Shalina\PC Application\BusinessLayer\obj\Debug\BusinessLayer.dll
+G:\Amar\Shalina\PC Application\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\PrpertyLayer.dll
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Amar\Shalina\PC Application - New\BusinessLayer\bin\Debug\PrpertyLayer.pdb
+D:\Amar\Shalina\PC Application - New\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Amar\Shalina\PC Application - New\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Amar\Shalina\PC Application - New\BusinessLayer\obj\Debug\BusinessLayer.pdb

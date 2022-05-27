@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TBLCONFIG>
+    <SERVICE>http://localhost/DGFTWEBSERVICE/Service.asmx</SERVICE>
+    <USER>g1234567</USER>
+  </TBLCONFIG>
+</NewDataSet>

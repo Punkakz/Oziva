@@ -1,0 +1,14 @@
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\Debug\DataLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\Debug\PrpertyLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\Debug\PrpertyLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\bin\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\bin\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\bin\Debug\PrpertyLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\bin\Debug\PrpertyLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Amar\Shalina\PC Application\DataLayer\obj\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\obj\Debug\DataLayer.pdb

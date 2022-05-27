@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TBLCONFIG>
+    <PROJECT>00000</PROJECT>
+    <DEVICE>D1001</DEVICE>
+    <SITENAME>Andheri</SITENAME>
+    <SERVICE>http://localhost:11924/DGFT_WebService/Service.asmx</SERVICE>
+  </TBLCONFIG>
+</NewDataSet>

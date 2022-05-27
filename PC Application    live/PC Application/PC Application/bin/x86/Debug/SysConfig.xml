@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TBLCONFIG>
+    <SERVICE>http://localhost:31086/Service.asmx</SERVICE>
+    <SERVICE1>http://localhost:31086/Service.asmx</SERVICE1>
+    <USER>BCIL</USER>
+    <DBPRINT>C:\BCIL\DGFT</DBPRINT>
+    <TERMONTH>MMM</TERMONTH>
+    <TERSEP>-</TERSEP>
+    <PRINTTYPE>ZPL</PRINTTYPE>
+    <MAPPING>OFFLINE</MAPPING>
+    <PRINTINDEX>0</PRINTINDEX>
+    <MyLine>NGVN1</MyLine>
+  </TBLCONFIG>
+</NewDataSet>

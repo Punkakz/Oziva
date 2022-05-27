@@ -1,0 +1,5 @@
+D:\Application\Mayur\DGFT\PC Application\PrpertyLayer\bin\Debug\PrpertyLayer.dll
+D:\Application\Mayur\DGFT\PC Application\PrpertyLayer\bin\Debug\PrpertyLayer.pdb
+D:\Application\Mayur\DGFT\PC Application\PrpertyLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Application\Mayur\DGFT\PC Application\PrpertyLayer\obj\Debug\PrpertyLayer.dll
+D:\Application\Mayur\DGFT\PC Application\PrpertyLayer\obj\Debug\PrpertyLayer.pdb

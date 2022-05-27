@@ -1,0 +1,130 @@
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\PC Application.exe.config
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\PC Application.exe
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\PC Application.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\BCIL.Socket.Client.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\BcilLib.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\BusinessLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\excelExport.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\PrpertyLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\BusinessLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\PrpertyLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\bin\Debug\DataLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Properties.Resources.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmEventRpt.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmParentChildRpt.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.frmReportPre.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmSecondUnutlized.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmSecRpt.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.frmSummaryRpt.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmTerRpt.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmTerteryUntilized.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmWrongPack.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmMicroscan.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmDownload.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmOnlineScanning1.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmUpload.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Scanning.ManualScanning.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Startup.frmChangePwd.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Startup.frmLogin.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Startup.MDIMain.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Sync.frmTransSync.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Sync.Master_Sync.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmBatchCreation.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmCancelRequest.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmCancelSerial.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmGenReq.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmJobCreate.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmPrinting.resources
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC Application.csproj.GenerateResource.Cache
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC Application.exe
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\PC Application\obj\Debug\PC Application.pdb
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\PC Application.exe.config
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC Application.exe
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC Application.pdb
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\PC Application.exe
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\PC Application.pdb
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\BCIL.Socket.Client.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\BcilLib.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\BusinessLayer.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\excelExport.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\OpenNETCF.Desktop.Communication.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\PrpertyLayer.dll
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\BusinessLayer.pdb
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\PrpertyLayer.pdb
+G:\Amar\Shalina\PC Application\PC Application\bin\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\ResolveAssemblyReference.cache
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Properties.Resources.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmEventRpt.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmParentChildRpt.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.frmReportPre.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmSecondUnutlized.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmSecRpt.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.frmSummaryRpt.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmTerRpt.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmTerteryUntilized.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Reports.frmWrongPack.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmMicroscan.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmDownload.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmOnlineScanning1.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Scanning.frmUpload.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Scanning.ManualScanning.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Startup.frmChangePwd.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Startup.frmLogin.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Startup.MDIMain.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Sync.frmTransSync.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Sync.Master_Sync.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmBatchCreation.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmCancelRequest.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmCancelSerial.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmGenReq.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmJobCreate.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC_Application.Transaction.frmPrinting.resources
+G:\Amar\Shalina\PC Application\PC Application\obj\Debug\PC Application.csproj.GenerateResource.Cache
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\Track And Trace.exe.config
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\Track And Trace.exe
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\Track And Trace.pdb
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\BCIL.Socket.Client.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\BcilLib.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\BusinessLayer.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\DataLayer.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\excelExport.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\PrpertyLayer.dll
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\BusinessLayer.pdb
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\PrpertyLayer.pdb
+D:\Amar\Shalina\PC Application - New\PC Application\bin\Debug\DataLayer.pdb
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\ResolveAssemblyReference.cache
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Properties.Resources.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmEventRpt.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmParentChildRpt.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.frmReportPre.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmSecondUnutlized.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmSecRpt.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.frmSummaryRpt.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmTerRpt.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmTerteryUntilized.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmUploadReport.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Reports.frmWrongPack.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Scanning.frmMicroscan.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Scanning.frmDownload.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Scanning.frmOnlineScanning1.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Scanning.frmUpload.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Scanning.ManualScanning.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Startup.frmChangePwd.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Startup.frmLogin.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Startup.MDIMain.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Sync.frmTransSync.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Sync.Master_Sync.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmBatchCreation.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmCancelRequest.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmCancelSerial.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmGenReq.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmJobCreate.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC_Application.Transaction.frmPrinting.resources
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\PC Application.csproj.GenerateResource.Cache
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\Track And Trace.exe
+D:\Amar\Shalina\PC Application - New\PC Application\obj\Debug\Track And Trace.pdb

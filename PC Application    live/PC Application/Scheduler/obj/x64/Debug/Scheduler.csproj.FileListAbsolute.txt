@@ -1,0 +1,56 @@
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\Scheduler.exe
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\Scheduler.pdb
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\BusinessLayer.dll
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\DataLayer.dll
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\BusinessLayer.pdb
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\DataLayer.pdb
+D:\Chandrakant\Current Projects\PC Application\Scheduler\bin\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\Scheduler.frmScheduler.resources
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\Scheduler.Properties.Resources.resources
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\Scheduler.exe
+D:\Chandrakant\Current Projects\PC Application\Scheduler\obj\x64\Debug\Scheduler.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.exe
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.dll
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.dll
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.dll
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.pdb
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.frmScheduler.resources
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.Properties.Resources.resources
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.exe
+D:\Chandrakant\Current Projects\DGFT System\DGFT Latest Source Code\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.exe
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.dll
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.frmScheduler.resources
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.Properties.Resources.resources
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.exe
+D:\Sayali\DGFT Web\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.pdb
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.exe
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\Scheduler.pdb
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.dll
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.dll
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.dll
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\BusinessLayer.pdb
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\DataLayer.pdb
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\bin\x64\Debug\PrpertyLayer.pdb
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.frmScheduler.resources
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.Properties.Resources.resources
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.exe
+D:\Jejuri\Jejuri\PC Application Online\Scheduler\obj\x64\Debug\Scheduler.pdb

@@ -1,0 +1,169 @@
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sync Source Code\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+F:\IQ, OQ, PQ\Sync Source Code\Sync Source Code\Chand\Sync Source Code\Final\RND\Merck 29-10-2015\29_10_15 DGFT\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\Shalina\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\301015 DGFT Updated\Source Code\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+C:\Nirav\Shalina\Crystal PC Application\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Sayali\DGFT Web\DGFT Application 010616\PC Application Online\DataLayer\obj\x86\Debug\DataLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+C:\Nirav\DGFT_ALL\Shalina\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Nirav\Shalina\Source code\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Shalina\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Shalina\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Shalina\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Shalina\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Shalina\PC Application\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Shalina\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Shalina\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+G:\Amar\Shalina\PC Application\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Amar\Shalina\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+G:\Amar\Shalina\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Amar\Shalina\PC Application - New\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Amar\Shalina\PC Application - New\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Amar\Shalina\PC Application - New\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Amar\Shalina\PC Application - New\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Amar\Shalina\PC Application - New\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Amar\Shalina\PC Application - New\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Amar\Shalina\PC Application - New\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Amar Projects\Support\DGFT-Support\Shalina-PC App Latest\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Amar Projects\Developed\DGFT Revamp\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Amar Projects\Scot Edil\Shalina-PC App Latest -2010\DataLayer\obj\x86\Debug\DataLayer.pdb
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+F:\Amar\Developed\Pooja\Scot Edil\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+D:\Projects\Scot Edil\Source Code\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\bin\x86\Debug\DataLayer.dll
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\bin\x86\Debug\DataLayer.pdb
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.dll
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\bin\x86\Debug\PrpertyLayer.pdb
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\obj\x86\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\obj\x86\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\obj\x86\Debug\DataLayer.csproj.CopyComplete
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\obj\x86\Debug\DataLayer.dll
+C:\Users\1ZCVZOOOOOOOOOOOOOOO\Desktop\SOurce code\Oziva-DGFT\PC Application\DataLayer\obj\x86\Debug\DataLayer.pdb
